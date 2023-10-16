@@ -62,9 +62,5 @@ peopleHtml.forEach((personDiv) => {
 
 console.table(peopleHtml);
 
-// Append the created elements to the #people div
-// peopleHtml.forEach((personDiv) => {
-//     peopleList.appendChild(personDiv);
-//   });
 
 
